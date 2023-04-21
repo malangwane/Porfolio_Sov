@@ -2,6 +2,6 @@
 
 To run 
 
-npm i 
+npm install 
 
-'''npm run dev```
+npm run dev
