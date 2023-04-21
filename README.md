@@ -1,3 +1,7 @@
-## Portfolio Sample
+## Portfolio wise
 
-- run ```npm i && npm run dev```
+To run 
+
+npm i 
+
+npm run dev```
