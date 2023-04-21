@@ -4,4 +4,4 @@ To run
 
 npm i 
 
-npm run dev```
+'''npm run dev```
