@@ -1,10 +1,16 @@
 ## Portfolio wise
 
 Live website: porfolio-sov-malangwane.vercel.app
+[Live Page](https://porfolio-sov-malangwane.vercel.app)
 
+```
+npm install
+```
 
-To run 
+```
+npm run build
+```
 
-npm install 
-
-npm run dev
+```
+npm start
+```
